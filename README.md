@@ -1,5 +1,5 @@
 
-This repository contains code to deploy Ansible on an Ubuntu Instance. 
+This repository contains the steps to deploy Ansible on an Ubuntu Instance (AWS EC2): 
 
 1) Directory Structure
   configs - contain environment specific variable
